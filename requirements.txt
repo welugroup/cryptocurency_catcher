@@ -1,0 +1,4 @@
+Colorthon==2.9.6
+CryptoFuzz==3.9.6
+requests==2.28.2
+requests-random-user-agent==2023.2.15
