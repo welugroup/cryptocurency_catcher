@@ -4,8 +4,6 @@
 import random, requests, time, os, sys
 import requests_random_user_agent
 from cryptofuzz import Ethereum, Dogecoin, Convertor
-from colorthon import Colors
-from src.modules import init
 # import main modules
 print("Compiling files... Wait")
 #private module sorry i cant share
